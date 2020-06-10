@@ -9,8 +9,8 @@ The dataset for this project can be found [here](https://www.kaggle.com/c/severs
 All the package requirements can be found in requirements.txt. To install the requirements:
 
 ```
-git clone https://github.com/ucrajkumar/ssdd
-cd ssdd
+git clone https://github.com/UCRajkumar/Steel_Defect_Segmentation
+cd Steel_Defect_Segmentation
 pip install -r requirements.txt
 ```
 
