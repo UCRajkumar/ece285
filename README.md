@@ -1,6 +1,7 @@
 # Severstal Steel Defect Detection
 ## Authors: Chi-Hsin Lo, Subrato Chakravorty, Utkrisht Rajkumar
 
+### This project is no longer maintained.
 ### Description
 
 The dataset for this project can be found [here](https://www.kaggle.com/c/severstal-steel-defect-detection/data). To run with our default path setup, create a new folder called "inputs" in the same directory as the one containing this cloned respository. Download and extract the dataset inside "inputs." The kaggle submission kernel can be found [here](https://www.kaggle.com/urajkumar/ece285-project-d). It contains the code to upload submission.csv files and submit to Kaggle. Inside the kernel, load the dataset called `ece285_submissions` to access all generated submission files. The submissions can be directly downloaded from kaggle [here](www.kaggle.com/dataset/66e31f616a09a4017e2c56d9b42afdc515a971421e9bbc11d5f7f63cca8ca8c3).
