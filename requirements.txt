@@ -21,7 +21,7 @@ Click==7.0
 cloudpickle==1.1.1
 conda==4.7.10
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 cudf==0.9.0
 cugraph==0.9.0+0.g846190c.dirty
 cuml==0.9.1
