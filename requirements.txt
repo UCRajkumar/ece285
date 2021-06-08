@@ -106,7 +106,7 @@ parso==0.5.1
 patsy==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==8.2.0
 plac==0.9.6
 pluggy==0.13.0
 portalocker==1.5.1
